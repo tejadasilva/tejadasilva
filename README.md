@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tejadasilva
-- 👀 I’m interested in Security
+- 👋 Hi, I’m Miguel Tejada
+- 👀 I’m interested in Security, Data Analysis 
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tejadasilva@gmail.com, https://www.linkedin.com/in/miguel-tejada-sv/
