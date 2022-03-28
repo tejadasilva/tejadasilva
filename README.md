@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Tejada
 - 👀 I’m interested in Security, Data Analysis, Automation
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tejadasilva@gmail.com, https://www.linkedin.com/in/miguel-tejada-sv/
 
